@@ -103,14 +103,13 @@ pat = re.compile(file_pat)
 # directory and check them for trailing whitespace.
 
 directory = os.path.abspath(args.dir[0])
-ignore = args.ignore_prefix and os.path.abspath(args.ignore_prefix) or None
 
 found_whitespace = False
 try:
     for root, dirs, files in os.walk(directory, onerror=raise_error):
         for file in files:
             path = os.path.join(root, file)
-            if not (ignore and path.startswith(ignore)) and pat.match(file):
+            if ('builddir' not in path) and ('obj-x86_64-linux-gnu' not in path) and pat.match(file):
                 if scan_for_bad_whitespace(path):
                     found_whitespace = True
 

@@ -464,7 +464,7 @@ msgstr "Lepas untuk menyegarkan..."
 
 #: qml/Dash/ScopeSettings/ScopeSettingBoolean.qml:43
 msgid "Enable location data"
-msgstr "Bolehkan data lokaso"
+msgstr "Bolehkan data lokasi"
 
 #: qml/Dash/ScopesList.qml:146
 msgid "Manage"
@@ -588,7 +588,7 @@ msgstr ""
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1011
 #, qt-format
 msgid "%1 remaining"
-msgstr "%1 tersiss"
+msgstr "%1 tersisa"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1017
 msgid "In queue…"
@@ -708,110 +708,111 @@ msgstr "Jaringan Wi-Fi yang Tersedia"
 
 #: qml/Wizard/Pages/30-wifi.qml:165
 msgid "No available Wi-Fi networks"
-msgstr ""
+msgstr "Tidak ada jaringan Wi-Fi yang tersedia"
 
 #: qml/Wizard/Pages/40-location.qml:27
 msgid "Location Services"
-msgstr ""
+msgstr "Layanan Lokasi"
 
 #: qml/Wizard/Pages/40-location.qml:83
 msgid ""
 "Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
 "(recommended)"
-msgstr ""
+msgstr "Gunakan GPS, hotspot Wi-Fi, dan jaringan bergerak secara anonim untuk mendeteksi lokasi "
+"(direkomendasikan)
 
 #: qml/Wizard/Pages/40-location.qml:105
 #, qt-format
 msgid "By selecting this option you agree to the Nokia HERE %1."
-msgstr ""
+msgstr "Dengan memilih pilihan ini Anda setuju dengan Nokia HERE %1."
 
 #: qml/Wizard/Pages/40-location.qml:106
 msgctxt "part of: Nokia HERE terms and conditions"
 msgid "terms and conditions"
-msgstr ""
+msgstr "syarat dan ketentuan"
 
 #: qml/Wizard/Pages/40-location.qml:160
 msgid "GPS only"
-msgstr ""
+msgstr "Hanya GPS"
 
 #: qml/Wizard/Pages/40-location.qml:214
 msgid "Don't use my location"
-msgstr ""
+msgstr "Jangan gunakan lokasi saya"
 
 #: qml/Wizard/Pages/40-location.qml:260
 msgid "You can change it later in System Settings."
-msgstr ""
+msgstr "Anda bisa mengubahnya nanti di Pengaturan Sistem."
 
 #: qml/Wizard/Pages/50-timezone.qml:30
 msgid "Time Zone"
-msgstr ""
+msgstr "Zona Waktu"
 
 #: qml/Wizard/Pages/50-timezone.qml:182
 msgid "Enter your city"
-msgstr ""
+msgstr "Masukkan kota Anda"
 
 #: qml/Wizard/Pages/60-account.qml:24
 msgid "Personalize Your Device"
-msgstr ""
+msgstr "Personalisasi Perangkat Anda"
 
 #: qml/Wizard/Pages/60-account.qml:48
 msgid "Preferred Name"
-msgstr ""
+msgstr "Nama yang Diinginkan"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:40
 msgid "Lock Screen"
-msgstr ""
+msgstr "Layar Kunci"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:102
 msgctxt "Label: Type of security method"
 msgid "Create new password"
-msgstr ""
+msgstr "Buat kata sandi baru"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:104
 msgctxt "Label: Type of security method"
 msgid "Create passcode (numbers only)"
-msgstr ""
+msgstr "Membuat kode sandi (hanya angka)"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:106
 msgctxt "Label: Type of security method"
 msgid "No lock code"
-msgstr ""
+msgstr "Tidak ada kode kunci"
 
 #: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Aturan Privasi"
 
 #: qml/Wizard/Pages/75-report-check.qml:26
 msgid "Help Us Improve"
-msgstr ""
+msgstr "Bantu Kami untuk Meningkatkan Mutu"
 
 #: qml/Wizard/Pages/75-report-check.qml:59
 msgid "Improve system performance by sending us crashes and error reports."
-msgstr ""
+msgstr "Tingkatkan performa sistem dengan mengirimkan laporan kerusakan dan galat pada kamu"
 
 #: qml/Wizard/Pages/75-report-check.qml:60
 msgid "Privacy policy"
-msgstr ""
+msgstr "Aturan privasi"
 
 #: qml/Wizard/Pages/80-finished.qml:89
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Selamat Datang di Ubuntu"
 
 #: qml/Wizard/Pages/80-finished.qml:104
 msgid "You are ready to use your device now"
-msgstr ""
+msgstr "Sekarang Anda siap menggunakan perangkat Anda"
 
 #: qml/Wizard/Pages/80-finished.qml:124
 msgid "Get Started"
-msgstr ""
+msgstr "Memulai"
 
 #: qml/Wizard/Pages/here-terms.qml:25
 msgid "Terms & Conditions"
-msgstr ""
+msgstr "Syarat dan Ketentuan"
 
 #: qml/Wizard/Pages/here-terms.qml:69
 msgid "Your device uses positioning technologies provided by HERE."
-msgstr ""
+msgstr "Perangkat Anda menggunakan teknologi lokasi yang disiapkan oleh HERE."
 
 #: qml/Wizard/Pages/here-terms.qml:81
 msgid ""
@@ -819,92 +820,97 @@ msgid ""
 "collects information about nearby cell towers and Wi-Fi hotspots around your "
 "current location whenever your position is being found."
 msgstr ""
+"Untuk memberikan layanan lokasi kepada Anda dan untuk meningkatkan kualitas layanan, HERE "
+"mengumpulkan informasi tentang menara seluler dan hotspot Wi-Fi di sekitar Anda "
+"kapanpun lokasi Anda ditemukan."
 
 #: qml/Wizard/Pages/here-terms.qml:93
 msgid ""
 "The information collected is used to analyze the service and to improve the "
 "use of service, but not to identify you personally."
 msgstr ""
+"Informasi yang dikumpulkan akan digunakan untuk menganalisa layanan dan untuk meningkatkan "
+"penggunaan layanan, tapi tidak untuk mengidentifikasi Anda secara pribadi."
 
 #: qml/Wizard/Pages/here-terms.qml:106
 #, qt-format
 msgid "By continuing, you agree to the HERE platform %1 and %2."
-msgstr ""
+msgstr "Dengan melanjutkan, Anda setuju dengan platform %1 dan %2.""
 
 #: qml/Wizard/Pages/here-terms.qml:107
 msgid "Service Terms"
-msgstr ""
+msgstr "Syarat dan Ketentuan Layanan"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:43
 #: qml/Wizard/Pages/passcode-desktop.qml:97
 msgid "Confirm passcode"
-msgstr ""
+msgstr "Konfirmasi kode sandi"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgid "Incorrect passcode."
-msgstr ""
+msgstr "Kode sandi salah"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgctxt "Enter the passcode again"
 msgid "Please re-enter."
-msgstr ""
+msgstr "Mohon masukkan kembali."
 
 #: qml/Wizard/Pages/passcode-desktop.qml:31
 msgid "Lock Screen Passcode"
-msgstr ""
+msgstr "Kode Sandi Layar Kunci"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:61
 msgid "Enter 4 numbers to setup your passcode"
-msgstr ""
+msgstr "Masukkan 4 angka untuk menyetel kode sandi Anda"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:77
 #: qml/Wizard/Pages/passcode-set.qml:54
 msgid "Choose passcode"
-msgstr ""
+msgstr "Pilih kode sandi"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:127
 msgid "Passcode too short"
-msgstr ""
+msgstr "Kode sandi terlalu pendek"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:129
 msgid "Passcodes match"
-msgstr ""
+msgstr "Kode sandi cocok"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:131
 msgid "Passcodes do not match"
-msgstr ""
+msgstr "Kode sandi tidak cocok"
 
 #: qml/Wizard/Pages/passcode-set.qml:62
 msgid "Passcode must be 4 characters long"
-msgstr ""
+msgstr "Kode sandi harus sepanjang 4 karakter"
 
 #: qml/Wizard/Pages/password-set.qml:31
 msgid "Lock Screen Password"
-msgstr ""
+msgstr "Kata Sandi Layar Kunci"
 
 #: qml/Wizard/Pages/password-set.qml:62
 msgid "Enter at least 8 characters"
-msgstr ""
+msgstr "Masukkan paling sedikit 8 karakter"
 
 #: qml/Wizard/Pages/password-set.qml:74
 msgid "Choose password"
-msgstr ""
+msgstr "Pilih kata sandi"
 
 #: qml/Wizard/Pages/password-set.qml:104
 msgid "Confirm password"
-msgstr ""
+msgstr "Konfirmasi kata sandi"
 
 #: qml/Wizard/Pages/sim.qml:27
 msgid "No SIM card installed"
-msgstr ""
+msgstr "Tidak ada kartu SIM terpasang"
 
 #: qml/Wizard/Pages/sim.qml:54
 msgid "SIM card added"
-msgstr ""
+msgstr "Kartu SIM ditambahkan"
 
 #: qml/Wizard/Pages/sim.qml:55
 msgid "You must restart the device to access the mobile network."
-msgstr ""
+msgstr "Anda harus menyalakan ulang perangkat untuk mengakses jaringan bergerak"
 
 #: qml/Wizard/Pages/sim.qml:59
 msgid "Restart"
@@ -912,39 +918,39 @@ msgstr "Nyalakan ulang"
 
 #: qml/Wizard/Pages/sim.qml:78
 msgid "You won’t be able to make calls or use text messaging without a SIM."
-msgstr ""
+msgstr "Anda tidak akan bisa menelepon atau menggunakan layanan pesan teks tanpa SIM"
 
 #: qml/Wizard/Pages/sim.qml:90
 msgid "To proceed with no SIM tap Skip."
-msgstr ""
+msgstr "Untuk melanjutkan tanpa SIM, ketuk Lewati."
 
 #: qml/Wizard/PasswordMeter.qml:87
 msgid "Password too short"
-msgstr ""
+msgstr "Kata sandi terlalu pendek"
 
 #: qml/Wizard/PasswordMeter.qml:89
 msgid "Passwords match"
-msgstr ""
+msgstr "Kata sandi cocok"
 
 #: qml/Wizard/PasswordMeter.qml:91
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Kata sandi tidak cocok"
 
 #: qml/Wizard/PasswordMeter.qml:95
 msgid "Strong password"
-msgstr ""
+msgstr "Kata sandi kuat"
 
 #: qml/Wizard/PasswordMeter.qml:97
 msgid "Fair password"
-msgstr ""
+msgstr "Kata sandi cukup kuat"
 
 #: qml/Wizard/PasswordMeter.qml:99
 msgid "Weak password"
-msgstr ""
+msgstr "Kata sandi lemah"
 
 #: qml/Wizard/PasswordMeter.qml:101
 msgid "Very weak password"
-msgstr ""
+msgstr "Kata sandi sangat lemah"
 
 #~ msgid "Close"
 #~ msgstr "Tutup"

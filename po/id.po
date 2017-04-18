@@ -719,8 +719,7 @@ msgstr "Layanan Lokasi"
 msgid ""
 "Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
 "(recommended)"
-msgstr "Gunakan GPS, hotspot Wi-Fi, dan jaringan bergerak secara anonim untuk mendeteksi lokasi "
-"(direkomendasikan)
+msgstr "Gunakan GPS, hotspot Wi-Fi, dan jaringan bergerak secara anonim untuk mendeteksi lokasi (direkomendasikan)"
 
 #: qml/Wizard/Pages/40-location.qml:105
 #, qt-format
@@ -836,7 +835,7 @@ msgstr ""
 #: qml/Wizard/Pages/here-terms.qml:106
 #, qt-format
 msgid "By continuing, you agree to the HERE platform %1 and %2."
-msgstr "Dengan melanjutkan, Anda setuju dengan platform %1 dan %2.""
+msgstr "Dengan melanjutkan, Anda setuju dengan platform %1 dan %2."
 
 #: qml/Wizard/Pages/here-terms.qml:107
 msgid "Service Terms"

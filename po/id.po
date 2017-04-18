@@ -144,11 +144,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:67
 msgid "Takes a screenshot."
-<<<<<<< HEAD
-msgstr "Mengambil Cuplikan Layar"
-=======
 msgstr "Mengambil Cuplikan Layar."
->>>>>>> aaefab30fe041aba0b554b103c5a357ba61e003b
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:75
 msgid "Alt + PrtScr"
@@ -188,19 +184,12 @@ msgstr "Peluncur"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:138
 msgid "Super (Hold)"
-<<<<<<< HEAD
-msgstr "Super (Tahan"
-
-#: qml/Components/KeyboardShortcutsOverlay.qml:143
-msgid "Opens the launcher, displays shortcuts."
-msgstr "Buka Peluncur, tampilkan pintasan"
-=======
 msgstr "Super (Tahan)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:143
 msgid "Opens the launcher, displays shortcuts."
 msgstr "Buka Peluncur, tampilkan pintasan."
->>>>>>> aaefab30fe041aba0b554b103c5a357ba61e003b
+
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:151
 msgid "Alt + F1"
@@ -208,11 +197,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:156
 msgid "Opens launcher keyboard navigation mode."
-<<<<<<< HEAD
-msgstr "Buka peluncur mode papan tik navigasi"
-=======
 msgstr "Buka peluncur mode papan tik navigasi."
->>>>>>> aaefab30fe041aba0b554b103c5a357ba61e003b
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:164
 msgid "Super + Tab"
@@ -220,11 +205,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:169
 msgid "Switches applications via the launcher."
-<<<<<<< HEAD
-msgstr "Berpindah aplikasi lewat peluncur"
-=======
 msgstr "Berpindah aplikasi lewat peluncur."
->>>>>>> aaefab30fe041aba0b554b103c5a357ba61e003b
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:177
 msgid "Super + 1 to 0"

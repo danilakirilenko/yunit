@@ -24,7 +24,7 @@ msgstr "Jelszó: "
 
 #: plugins/LightDM/Greeter.cpp:203
 msgid "Username"
-msgstr ""
+msgstr "Felhasználónév"
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
@@ -151,7 +151,7 @@ msgstr "Alt + PrtScr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:80
 msgid "Takes a screenshot of the current window."
-msgstr ""
+msgstr "Képernyőképet készít az aktuális ablakról"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:88
 msgid "Super + Space"
@@ -207,7 +207,7 @@ msgstr "Alkalmazás váltás az indítóval"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:177
 msgid "Super + 1 to 0"
-msgstr ""
+msgstr "Super + 0 – 9"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:182
 msgid "Same as clicking on a launcher icon."
@@ -533,7 +533,7 @@ msgstr "Asztali-környezet kiválasztása"
 
 #: qml/Launcher/Drawer.qml:93
 msgid "Search…"
-msgstr ""
+msgstr "Keresés.."
 
 #: qml/Launcher/Drawer.qml:128
 msgctxt "Apps sorted alphabetically"

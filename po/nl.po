@@ -28,7 +28,7 @@ msgstr "Gebruikersnaam"
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
-msgstr "Authenticate mislukt"
+msgstr "Authenticatie mislukt"
 
 #: plugins/LightDM/Greeter.cpp:244
 msgid "Invalid password, please try again"
@@ -1198,12 +1198,12 @@ msgstr "Zeer zwak wachtwoord"
 #~ msgstr "Wachtwoordzin bevestigen"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Choose your passcode"
 #~ msgstr "Kies uw toegangscode"

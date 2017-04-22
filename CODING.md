@@ -13,17 +13,10 @@ download source
   $ cd ~/yunit
   ```
 
-add required ppa
-----------------
-  ```
-  $ sudo add-apt-repository ppa:ci-train-ppa-service/stable-phone-overlay
-  $ sudo apt-get update
-  ```
-
 install dependencies and build yunit
 ------------------------------------
   ```
-  $ sudo apt install devscripts equivs cmake libunity-api-dev
+  $ sudo apt install devscripts equivs cmake
   $ ./build.sh
   ```
 

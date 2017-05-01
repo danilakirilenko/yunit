@@ -45,7 +45,7 @@ msgstr "Повторить"
 
 #: plugins/LightDM/UsersModel.cpp:152
 msgid "Login"
-msgstr ""
+msgstr "Логин"
 
 #: plugins/LightDM/UsersModel.cpp:160
 msgid "Guest Session"
@@ -374,7 +374,7 @@ msgstr ""
 
 #: qml/Components/VirtualTouchPad.qml:351
 msgid "Swipe with two fingers to scroll."
-msgstr ""
+msgstr "Проведите двумя пальцами для прокрутки."
 
 #: qml/Components/VirtualTouchPad.qml:396
 msgid "Find more settings in the system settings."
@@ -515,7 +515,7 @@ msgstr ""
 
 #: qml/Greeter/Greeter.qml:552
 msgid "Enter passcode to unlock"
-msgstr ""
+msgstr "Введите пароль для разблокировки"
 
 #: qml/Greeter/NarrowView.qml:228
 msgid "Emergency"
@@ -540,7 +540,7 @@ msgstr "Найти..."
 #: qml/Launcher/Drawer.qml:128
 msgctxt "Apps sorted alphabetically"
 msgid "A-Z"
-msgstr ""
+msgstr "А-Я"
 
 #: qml/Launcher/MoreAppsHeader.qml:55
 msgid "More apps in the store"
@@ -638,15 +638,15 @@ msgstr "Позвонить"
 
 #: qml/Panel/PanelMenuPage.qml:92
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: qml/Stage/SideStage.qml:76
 msgid "Drag using 3 fingers any application from one window to the other"
 msgstr "Передвигайте любое приложение с помощью трёх пальцев"
 
 #: qml/Tutorial/TutorialLeftLong.qml:49
-msgid "Long swipe from the left edge to open the Application Drawer"
-msgstr ""
+msgid "Long swipe from the left edge to open the Emergency"
+msgstr "Длинное движение слева направо для открытия"
 
 #: qml/Tutorial/TutorialLeft.qml:47
 msgid "Short swipe from the left edge to open the launcher"
@@ -663,7 +663,7 @@ msgstr ""
 
 #: qml/Tutorial/TutorialTop.qml:53
 msgid "Swipe from the top edge to access notifications and quick settings"
-msgstr ""
+msgstr "Проведите пальцем от верхнего края, чтобы получать доступ к уведомлениям и быстрые настройки"
 
 #: qml/Wizard/Page.qml:54
 msgctxt "Button: Go back one page in the Wizard"
@@ -725,7 +725,7 @@ msgstr "Службы геолокации"
 msgid ""
 "Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
 "(recommended)"
-msgstr ""
+msgstr "Использование GPS / ГЛОНАСС, Wi-Fi и мобильной сети анонимно для обнаружения местоположения"
 "Использовать анонимно GPS, точки доступа Wi-Fi  и мобильную сеть для "
 "определения местоположения (рекомендуется)"
 
@@ -1166,7 +1166,7 @@ msgstr "Very weak password"
 #~ "компанию Canonical и её партнерам, производителям операционной системы."
 
 #~ msgid "You can change your mind later in <b>System Settings</b>."
-#~ msgstr ""
+#~ msgstr "Вы можете изменить свой выбор можно позднее, перейдя в <b>Параметры системы</b>."
 #~ "Изменить свой выбор можно позднее, перейдя в <b>Параметры системы</b>."
 
 #~ msgid ""
